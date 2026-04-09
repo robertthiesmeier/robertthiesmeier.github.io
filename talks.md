@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Conference presentations & Talks
+title: Conference presentations and Talks
 ---
 
-## Selected talks & slides
+## Selected talks and slides
 
 ### 2025
 - **Systematically missing covariates in IPD meta-analysis: Comparing different statistical approaches using large cardiovascular trials**
