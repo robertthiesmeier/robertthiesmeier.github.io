@@ -1,5 +1,3 @@
-# Robert Thiesmeier 
-
 ## About me
 - PhD student at the Biostatistics Team, Department of Global Public Health @[Karolinska Institutet](https://ki.se)
 
