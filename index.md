@@ -38,16 +38,16 @@ Eﬀects in Postgraduate Biostatistics Courses](https://www.tandfonline.com/doi/
 - Karolinska Institutet - (Teaching Assistant & Lecturer): Biostatistics I (4FH083), Biostatistics II (4FH087), Biostatistics II: Logistic Regression for Epidemiologists (5314), Fundamentals of Stata (5315) (2022-)
 - Summer School on Modern Methods in Biostatistics and Epidemiology - Introduction to Stata (2025-)
 
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <div style="margin-top: 40px; padding: 15px 0; border-top: 2px solid #e0e0e0;">
   <a href="mailto:robert.thiesmeier@ki.se" style="margin-right: 20px; text-decoration: none; color: #2c3e50; font-size: 15px;">
     <i class="fa fa-envelope" style="margin-right: 6px; color: #3498db;"></i>robert.thiesmeier@ki.se
   </a>
-  <a href="[[LinkedIn](https://www.linkedin.com/in/robert-thiesmeier-207b60371/)](https://www.linkedin.com/in/robert-thiesmeier-207b60371/)" target="_blank" style="text-decoration: none; color: #2c3e50; font-size: 15px;">
+<a href="https://www.linkedin.com/in/robert-thiesmeier-207b60371/" target="_blank" style="text-decoration: none; color: #2c3e50; font-size: 15px;">
     <i class="fab fa-linkedin" style="margin-right: 6px; color: #0077b5;"></i>LinkedIn
   </a>
 </div>
+
 
 
