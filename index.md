@@ -2,6 +2,7 @@
 layout: default
 title: Robert Thiesmeier
 ---
+<img src="/photo.jpg" alt="Robert Thiesmeier" style="width: 160px; border-radius: 50%; display: block; margin-bottom: 15px;">
 
 ## About me
 - PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team), Department of Global Public Health @[Karolinska Institutet](https://ki.se)
