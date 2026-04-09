@@ -8,7 +8,8 @@ My methodological research focuses on the development, evaluation, and applicati
 
 ## Publications
 
-### Selected recent publications
+**Selected recent publications**
+
 
 ## Teaching
 - Karolinska Institutet - (Teaching Assistant & Lecturer): Biostatistics I (4FH083), Biostatistics II (4FH087), Biostatistics II: Logistic Regression for Epidemiologists (5314), Fundamentals of Stata (5315) (2022-)
