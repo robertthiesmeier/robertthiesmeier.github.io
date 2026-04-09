@@ -26,7 +26,7 @@ title: Conference presentations and Talks
 
 - **Systematically missing data in distributed data networks: Multiple imputation when data cannot be pooled**
   International Biometric Society Conference, Altanta, GA, December 2024
-  [Slides](presentations/019_ISPE_washington_2025.pdf)
+  [Slides](presentations/013_IBS_atlanta_2024.pdf.pdf)
 
 ### 2023
 
