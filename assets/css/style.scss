@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Sidebar background */
+body #header_wrap {
+  background: linear-gradient(135deg, #2c3e50, #3498db);
+}
+
+/* Sidebar title */
+body #header_wrap h1 {
+  color: #ffffff;
+}
+
+/* Sidebar description text */
+body #header_wrap h2 {
+  color: #d0e8f5;
+}
