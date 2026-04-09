@@ -1,6 +1,20 @@
 ---
 ---
 
-@import 'jekyll-theme-minimal';
+@import "{{ site.theme }}";
 
+body {
+  background-color: #fdfaf5;
+}
 
+header {
+  background-color: #4a4a4a;
+}
+
+header a {
+  color: #f0ead6;
+}
+
+a {
+  color: #8b4513;
+}
