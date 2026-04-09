@@ -25,6 +25,15 @@ My methodological research focuses on the development, evaluation, and applicati
 
 **Thiesmeier** R, Bottai M, Orsini N. [Imputing missing values with external data: Applications for multisite settings and federated analyses](https://journals.sagepub.com/doi/10.1177/1536867X251398605). The Stata Journal
 
+**Educational research**
+
+**Thiesmeier** R, Orsini N. [Rolling the DICE (Design, Interpret, Compute, Estimate): Interactive Learning of Biostatistics With Simulations](https://mededu.jmir.org/2024/1/e52679/). JMIR Medical Education
+
+**Thiesmeier** R, Orsini N, Gracely E, Oster B. [Teaching Statistics in Health Sciences: The Potential of Simulations in Public Health](https://www.tandfonline.com/doi/full/10.1080/09332480.2024.2348972). Chance
+
+Orsini N, **Thiesmeier** R, Båge K. [A Simulation-Based Approach to Teach Interaction
+Eﬀects in Postgraduate Biostatistics Courses](https://www.tandfonline.com/doi/pdf/10.1080/26939169.2024.2394536). Journal of Statistics and Data Science Education.
+
 ## Teaching
 - Karolinska Institutet - (Teaching Assistant & Lecturer): Biostatistics I (4FH083), Biostatistics II (4FH087), Biostatistics II: Logistic Regression for Epidemiologists (5314), Fundamentals of Stata (5315) (2022-)
 - Summer School on Modern Methods in Biostatistics and Epidemiology - Introduction to Stata (2025-)
