@@ -12,11 +12,11 @@ title: Conference presentations and Talks
 
 - **Cross-Site Imputation for Recovering Variables without Individual Pooled Data**
   International Society of Pharmacoepidemiology, Washington DC, August 2025
-  [Slides]()
+  [Slides](presentations/019_ISPE_washington_2025.pdf)
 
 - **A new framework for multiple imputation in distributed data networks**
   Biostatistics and Data Science Seminar, Department of Mathematics and Statistics, University of Massachusets, Amherst, MA, February 2025
-  [Slides]()
+  [Slides](presentations/015_UMass_Biostats_Seminar_25.pdf)
 
 - **Multiple imputation for recovering missing values when data cannot be shared**
   Virtual Biostatistics and Epidemiology Stata Symposium, February 2025
@@ -26,7 +26,7 @@ title: Conference presentations and Talks
 
 - **Systematically missing data in distributed data networks: Multiple imputation when data cannot be pooled**
   International Biometric Society Conference, Altanta, GA, December 2024
-  [Slides]()
+  [Slides](presentations/019_ISPE_washington_2025.pdf)
 
 ### 2023
 
