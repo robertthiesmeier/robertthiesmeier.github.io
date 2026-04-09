@@ -13,7 +13,8 @@ title: Conference presentations and Talks
 
 - **Cross-Site Imputation for Recovering Variables without Individual Pooled Data**
   International Society of Pharmacoepidemiology, Washington DC, August 2025
-  [Slides](link-to-slides)
+  
+  [Slides]()
 
 - **Multiple imputation for recovering missing values when data cannot be shared**
   Virtual Biostatistics and Epidemiology Stata Symposium, February 2025
