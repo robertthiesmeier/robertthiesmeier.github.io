@@ -11,8 +11,14 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-        <p>{{ site.description }}</p>
         <img src="/photo.jpg" alt="{{ site.title }}" style="width: 160px; height: 160px; border-radius: 50%; display: block; margin: 0 auto 15px auto; object-fit: cover;">
+        <p>{{ site.description }}</p>
+        <nav>
+        <a href="/">Home</a><br>
+        <a href="/talks/">Talks & Slides</a><br>
+        <a href="/publications/">Publications</a><br>
+        <a href="/cv.pdf">CV</a><br>
+        </nav>
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
