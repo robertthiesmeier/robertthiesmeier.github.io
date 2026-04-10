@@ -3,7 +3,9 @@ layout: default
 title: Conference presentations and Talks
 ---
 
-## Selected talks and slides
+## Selected presentations
+
+These are some of my recent presentations at international conferences with the slides being available as a pdf.
 
 ### 2025
 - **Systematically missing covariates in IPD meta-analysis: Comparing different statistical approaches using large cardiovascular trials**
