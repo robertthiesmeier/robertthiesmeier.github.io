@@ -12,11 +12,11 @@ My research interests lie at the intersection of applied biostatistics and clini
 ## Software
 [mi impute from](https://ideas.repec.org/c/boc/bocode/s459378.html), a package to impute binary, categorical, and continious variables from external data sources using logistic, multinomial logistic, and quantile regression, respectively.
 
-# Selected publications
+## Selected publications
 
 For a full list of bibliography, see [here](https://scholar.google.com/citations?hl=de&user=ZYiVa1IAAAAJ).
 
-## Peer-reviewed methodological publications 
+### Methodological research 
 
 **Thiesmeier** R, Haller PM, Patel SM, Bohula EM, Morrow DA, Murphy SA, O'Donoghue ML, Sabatine MS, Scirica BS, Bhatt DL, Orsini N, Bellavia A. [Statistical approaches for systematically missing covariates in individual participant data meta-analysis: insights and applications using 5 large cardiovascular trials](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf226/8280162). American Journal of Epidemiology  
 
@@ -26,7 +26,7 @@ For a full list of bibliography, see [here](https://scholar.google.com/citations
 
 **Thiesmeier** R, Bottai M, Orsini N. [Imputing missing values with external data: Applications for multisite settings and federated analyses](https://journals.sagepub.com/doi/10.1177/1536867X251398605). The Stata Journal
 
-## Peer-reviewed educational publications
+### Educational research
 
 **Thiesmeier** R, Orsini N. [Rolling the DICE (Design, Interpret, Compute, Estimate): Interactive Learning of Biostatistics With Simulations](https://mededu.jmir.org/2024/1/e52679/). JMIR Medical Education
 
@@ -35,7 +35,7 @@ For a full list of bibliography, see [here](https://scholar.google.com/citations
 Orsini N, **Thiesmeier** R, Båge K. [A Simulation-Based Approach to Teach Interaction
 Eﬀects in Postgraduate Biostatistics Courses](https://www.tandfonline.com/doi/pdf/10.1080/26939169.2024.2394536). Journal of Statistics and Data Science Education.
 
-## Peer-reviewed medical and population health science publications
+### Medical and population health science research
 
 ## Teaching
 - Karolinska Institutet - (Teaching Assistant & Lecturer): Biostatistics I (4FH083), Biostatistics II (4FH087), Biostatistics II: Logistic Regression for Epidemiologists (5314), Fundamentals of Stata (5315) (2022-)
