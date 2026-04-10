@@ -32,7 +32,7 @@ These are some of my recent presentations at international conferences with the 
 ### 2023
 
 - **Conditional quantile imputation for systematically missing variables in individual participant data meta-analysis**
-  Royal Statistical Society, Harrogate, UK, September 2023
+  Royal Statistical Society, Harrogate, UK, September 2023 [Slides]()
 
 - **Estimation of two-stage models in individual participant data meta-analysis with (or without) missing data**
   Northern European Stata Conference, Stockholm, August 2023
