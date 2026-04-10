@@ -4,13 +4,10 @@ title: Robert Thiesmeier
 ---
 
 ## About me
-I am a PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team), Department of Global Public Health @[Karolinska Institutet](https://ki.se) and affiliated to research at the [Aging Research Center, Karolinska Institutet](https://ki.se/en/nvs/research/centres-and-networks-at-nvs/aging-research-center-arc). My academic background is in public health, epidemiology, and biostatistics. A short CV is available [here](). 
+I am a PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team), Department of Global Public Health @[Karolinska Institutet](https://ki.se) and affiliated to research at the [Aging Research Center, Karolinska Institutet](https://ki.se/en/nvs/research/centres-and-networks-at-nvs/aging-research-center-arc). My academic background is in public health, epidemiology, and biostatistics. A short CV is available [here](CV_Thiesmeier__short_.pdf). Outside of academia I enjoy outdoor activities with running being my current favourite.
 
 ## Research
 My research interests lie at the intersection of applied biostatistics and clinical epidemiology. My methodological focus is on the development, evaluation, and application of statistical approaches for fragmented and harmonised data in multi-site studies. Recent methodological contributions have been applied to missing data problems in large cardiovascular trials, hospital and clinical care registries, and longitudinal cohort studies. More details and several slides of recent talks and presentations are available [here](talks.md).
-
-## Software
-[mi impute from](https://ideas.repec.org/c/boc/bocode/s459378.html), a package to impute binary, categorical, and continious variables from external data sources using logistic, multinomial logistic, and quantile regression, respectively.
 
 ## Selected publications
 
@@ -35,7 +32,16 @@ For a full list of bibliography, see [here](https://scholar.google.com/citations
 Orsini N, **Thiesmeier** R, Båge K. [A Simulation-Based Approach to Teach Interaction
 Eﬀects in Postgraduate Biostatistics Courses](https://www.tandfonline.com/doi/pdf/10.1080/26939169.2024.2394536). Journal of Statistics and Data Science Education.
 
-### Medical and population health science research
+### Medical and Population Health research
+
+**Thiesmeier** R, Abbadi A, Rizzuto D, Calderón-Larrañaga A, Hofer SM, Orsini N. [Multiple imputation of systematically missing data on gait speed in the Swedish National Study on Aging and Care](https://www.aging-us.com/article/205552/text). Aging (Albany NY)
+
+Shaaban A, Andersson F, **Thiesmeier** R, Orsini N, Peña S, Caspersen I, Magnusson C, Hergens M, Qazi B, Galanti R. [The association between tobacco use and COVID-19 diagnoses in three Nordic countries: a pooled analysis](https://academic.oup.com/eurpub/article/35/1/101/7825813). European Journal of Public Health
+
+## Software
+I am a proficient Stata user and use Stata for research, programming, and teaching. We recently published a Stata software package: 
+
+[mi impute from](https://ideas.repec.org/c/boc/bocode/s459378.html), a package to impute binary, categorical, and continious variables from external data sources using logistic, multinomial logistic, and quantile regression, respectively.
 
 ## Teaching
 - Karolinska Institutet - (Teaching Assistant & Lecturer): Biostatistics I (4FH083), Biostatistics II (4FH087), Biostatistics II: Logistic Regression for Epidemiologists (5314), Fundamentals of Stata (5315) (2022-)
