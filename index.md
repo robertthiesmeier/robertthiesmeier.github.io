@@ -7,23 +7,25 @@ title: Robert Thiesmeier
 
 <div id="en">
 
-## About me
-I am a PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team), Department of Global Public Health @[Karolinska Institutet](https://ki.se) and affiliated to research at the [Aging Research Center, Karolinska Institutet](https://ki.se/en/nvs/research/centres-and-networks-at-nvs/aging-research-center-arc). My academic background is in public health, epidemiology, and biostatistics. A short CV is available [here](presentations/CV_Thiesmeier__short_.pdf). 
+<h2>About me</h2>
 
-Outside of academia I enjoy outdoor activities with running being my current favourite.
+I am a PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team)...
 
-## Research
-My research interests lie at the intersection of applied biostatistics and clinical epidemiology. My methodological focus is on the development, evaluation, and application of statistical approaches for fragmented and harmonised data in multi-site studies. Recent methodological contributions have been applied to missing data problems in large cardiovascular trials, hospital and clinical care registries, and longitudinal cohort studies. More details and several slides of recent talks and presentations are available [here](talks.md).
+<h2>Research</h2>
+
+My research interests lie at the intersection...
 
 </div>
 
 <div id="de" style="display:none;">
 
-## Über mich
-Ich bin Doktorand im Biostatistik-Team des Department of Global Public Health am Karolinska Institutet, Stockholm, Schweden, und bin dem Aging Research Center angegliedert. Mein akademischer Hintergrund liegt in den Bereichen Public Health, Epidemiologie und Biostatistik. Ein kurzer Lebenslauf ist hier verfügbar. Außerhalb der Wissenschaft genieße ich Outdoor-Aktivitäten, wobei ich aktuell sehr gene Laufen gehe.
+<h2>Über mich</h2>
 
-## Forschung
-Meine Forschungsinteressen liegen an der Schnittstelle von angewandter Biostatistik und klinischer Epidemiologie. Mein methodischer Schwerpunkt liegt auf der Entwicklung, Evaluierung und Anwendung statistischer Ansätze für fragmentierte und harmonisierte Daten in multizentrischen Studien. Jüngste methodische Beiträge wurden auf Probleme fehlender Daten in großen kardiovaskulären Studien, Krankenhaus- und klinischen Versorgungsregistern sowie longitudinalen Kohortenstudien angewendet. Weitere Details und mehrere Folien von aktuellen Vorträgen und Präsentationen sind hier verfügbar.
+Ich bin Doktorand im Biostatistik-Team...
+
+<h2>Forschung</h2>
+
+Meine Forschungsinteressen liegen...
 
 </div>
 
