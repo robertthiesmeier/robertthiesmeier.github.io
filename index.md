@@ -16,7 +16,7 @@ I am a proficient Stata user and use Stata for research, programming, and teachi
 [mi impute from](https://ideas.repec.org/c/boc/bocode/s459378.html), a package to impute binary, categorical, and continious variables from external data sources using logistic, multinomial logistic, and quantile regression, respectively.
 
 ## Teaching
-I enjoy teaching epidemiology and biostatistics and have been involved in multiple courses over the last years. I am particulary passionate about innovatising the way we teach methodological concepts in public health and medical sciences. Over the last few years, I have thus been leading together with Nicola Orsini an initiative to use simulations in biostatistics courses which resulted in three peer-reviewed educational articles. 
+I enjoy teaching epidemiology and biostatistics and have been involved in multiple courses over the last years. I am particulary passionate about innovatising the way we teach methodological concepts in public health and medical sciences. Over the last few years, I have been involved in leading an initiative to use simulations in biostatistics courses which resulted in three peer-reviewed educational articles. 
 
 I am currently involved in the following courses:
 
