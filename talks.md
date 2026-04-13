@@ -6,10 +6,7 @@ title: Talks
 # List of Recent Talks
 
 ### 2025
-- **Systematically missing covariates in IPD meta-analysis: Comparing different statistical approaches using large cardiovascular trials**
-
-  Royal Statistical Society, Edinburgh, UK, September 2025
-  [Slides](presentations/020_RSS_edinburgh_2025.pdf)
+- **Systematically missing covariates in IPD meta-analysis: Comparing different statistical approaches using large cardiovascular trials**  Royal Statistical Society, Edinburgh, UK, September 2025  [Slides](presentations/020_RSS_edinburgh_2025.pdf)
 
 - **Cross-Site Imputation for Recovering Variables without Individual Pooled Data**
 
