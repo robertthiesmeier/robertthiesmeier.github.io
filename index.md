@@ -12,7 +12,7 @@ My research interests lie at the intersection of applied biostatistics and clini
 
 ## Selected publications
 
-For a full list of bibliography, see [here](https://scholar.google.com/citations?hl=de&user=ZYiVa1IAAAAJ).
+For a full list of publications, please see [here](publications.md).
 
 ### Methodological research 
 
