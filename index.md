@@ -11,9 +11,11 @@ title: Robert Thiesmeier
 
 I am a PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team)...
 
+
 <h2>Research</h2>
 
 My research interests lie at the intersection...
+
 
 </div>
 
@@ -23,9 +25,11 @@ My research interests lie at the intersection...
 
 Ich bin Doktorand im Biostatistik-Team...
 
+
 <h2>Forschung</h2>
 
 Meine Forschungsinteressen liegen...
+
 
 </div>
 
@@ -39,8 +43,8 @@ function toggleLang() {
     en.style.display = 'none';
     btn.textContent = '🇬🇧 English';
   } else {
-    de.style.display = 'block';
-    en.style.display = 'none';
+    de.style.display = 'none';
+    en.style.display = 'block';
     btn.textContent = '🇩🇪 Deutsch';
   }
 }
