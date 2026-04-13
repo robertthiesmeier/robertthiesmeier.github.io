@@ -20,11 +20,11 @@ My research interests lie at the intersection of applied biostatistics and clini
 <div id="de" style="display:none;">
 
 ## Über mich
-Ich bin Doktorand im Biostatistik-Team, Abteilung für Globale Public Health @Karolinska Institutet und bin der Forschung am Aging Research Center, Karolinska Institutet angegliedert. Mein akademischer Hintergrund liegt in den Bereichen Public Health, Epidemiologie und Biostatistik. Ein kurzer Lebenslauf ist hier verfügbar.
-Außerhalb der Wissenschaft genieße ich Outdoor-Aktivitäten, wobei Laufen derzeit mein liebstes ist.
-Research:
-Forschung
+Ich bin Doktorand im Biostatistik-Team des Department of Global Public Health am Karolinska Institutet, Stockholm, Schweden, und bin dem Aging Research Center angegliedert. Mein akademischer Hintergrund liegt in den Bereichen Public Health, Epidemiologie und Biostatistik. Ein kurzer Lebenslauf ist hier verfügbar. Außerhalb der Wissenschaft genieße ich Outdoor-Aktivitäten, wobei ich aktuell sehr gene Laufen gehe.
+
+## Forschung
 Meine Forschungsinteressen liegen an der Schnittstelle von angewandter Biostatistik und klinischer Epidemiologie. Mein methodischer Schwerpunkt liegt auf der Entwicklung, Evaluierung und Anwendung statistischer Ansätze für fragmentierte und harmonisierte Daten in multizentrischen Studien. Jüngste methodische Beiträge wurden auf Probleme fehlender Daten in großen kardiovaskulären Studien, Krankenhaus- und klinischen Versorgungsregistern sowie longitudinalen Kohortenstudien angewendet. Weitere Details und mehrere Folien von aktuellen Vorträgen und Präsentationen sind hier verfügbar.
+
 </div>
 
 <script>
