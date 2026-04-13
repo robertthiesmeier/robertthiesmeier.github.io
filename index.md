@@ -2,53 +2,13 @@
 layout: default
 title: Robert Thiesmeier
 ---
+## About me
+I am a PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team), Department of Global Public Health @[Karolinska Institutet](https://ki.se) and affiliated to research at the [Aging Research Center, Karolinska Institutet](https://ki.se/en/nvs/research/centres-and-networks-at-nvs/aging-research-center-arc). My academic background is in public health, epidemiology, and biostatistics. A short CV is available [here](presentations/CV_Thiesmeier__short_.pdf). 
 
-<button onclick="toggleLang()" style="margin-bottom: 20px; padding: 6px 14px; cursor: pointer;">🇩🇪 Deutsch</button>
+Outside of academia I enjoy outdoor activities with running being my current favourite.
 
-<div id="en">
-
-<h2>About me</h2>
-
-I am a PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team)...
-
-
-<h2>Research</h2>
-
-My research interests lie at the intersection...
-
-
-</div>
-
-<div id="de" style="display:none;">
-
-<h2>Über mich</h2>
-
-Ich bin Doktorand im Biostatistik-Team...
-
-
-<h2>Forschung</h2>
-
-Meine Forschungsinteressen liegen...
-
-
-</div>
-
-<script>
-function toggleLang() {
-  var en = document.getElementById('en');
-  var de = document.getElementById('de');
-  var btn = document.querySelector('button');
-  if (de.style.display === 'none') {
-    de.style.display = 'block';
-    en.style.display = 'none';
-    btn.textContent = '🇬🇧 English';
-  } else {
-    de.style.display = 'none';
-    en.style.display = 'block';
-    btn.textContent = '🇩🇪 Deutsch';
-  }
-}
-</script>
+## Research
+My research interests lie at the intersection of applied biostatistics and clinical epidemiology. My methodological focus is on the development, evaluation, and application of statistical approaches for fragmented and harmonised data in multi-site studies. Recent methodological contributions have been applied to missing data problems in large cardiovascular trials, hospital and clinical care registries, and longitudinal cohort studies. More details and several slides of recent talks and presentations are available [here](talks.md).
 
 ## Selected publications
 
