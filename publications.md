@@ -4,7 +4,7 @@ title: Bibliography
 ---
 # Bibliography 
 
-## Methodological research 
+## Methodological Research 
 
 **Thiesmeier** R, Haller PM, Patel SM, Bohula EM, Morrow DA, Murphy SA, O'Donoghue ML, Sabatine MS, Scirica BS, Bhatt DL, Orsini N, Bellavia A. [Statistical approaches for systematically missing covariates in individual participant data meta-analysis: insights and applications using 5 large cardiovascular trials](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf226/8280162). American Journal of Epidemiology  
 
@@ -16,7 +16,7 @@ title: Bibliography
 
 **Thiesmeier** R, Bottai M, Orsini N. [Systematically missing data in distributed data networks: multiple imputation when data cannot be pooled](https://www.tandfonline.com/doi/full/10.1080/00949655.2024.2404220). Journal of Statistical Computation and Simulation
 
-## Educational research
+## Educational Research
 
 **Thiesmeier** R, Orsini N. [Rolling the DICE (Design, Interpret, Compute, Estimate): Interactive Learning of Biostatistics With Simulations](https://mededu.jmir.org/2024/1/e52679/). JMIR Medical Education
 
@@ -25,7 +25,7 @@ title: Bibliography
 Orsini N, **Thiesmeier** R, Båge K. [A Simulation-Based Approach to Teach Interaction
 Eﬀects in Postgraduate Biostatistics Courses](https://www.tandfonline.com/doi/pdf/10.1080/26939169.2024.2394536). Journal of Statistics and Data Science Education
 
-## Medical and Population Health research
+## Medical and Population Health Research
 
 **Thiesmeier** R, Abbadi A, Rizzuto D, Calderón-Larrañaga A, Hofer SM, Orsini N. [Multiple imputation of systematically missing data on gait speed in the Swedish National Study on Aging and Care](https://www.aging-us.com/article/205552/text). Aging (Albany NY)
 
