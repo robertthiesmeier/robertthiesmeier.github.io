@@ -1,4 +1,7 @@
-# Bibliography
+---
+layout: default
+title: Bibliography
+---
 
 ## Methodological research 
 
