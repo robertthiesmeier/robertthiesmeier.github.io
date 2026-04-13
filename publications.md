@@ -27,9 +27,18 @@ Eﬀects in Postgraduate Biostatistics Courses](https://www.tandfonline.com/doi/
 
 **Thiesmeier** R, Skyving M, Möller J, Orsini N. [A probabilistic bias analysis on the magnitude of unmeasured confounding: The impact of driving mileage on road traffic crashes](https://www.sciencedirect.com/science/article/pii/S0001457523001914). Accident Analysis and Prevention
 
+Shaaban A, Andersson F, **Thiesmeier** R, Orsini N, Peña S, Caspersen I, Magnusson C, Hergens M, Qazi B, Galanti R. [The association between tobacco use and COVID-19 diagnoses in three Nordic countries: a pooled analysis](https://academic.oup.com/eurpub/article/35/1/101/7825813). European Journal of Public Health
+
+Mo M, **Thiesmeier** R, Kiwango G, Rausch C, Möller J, Liang Y. [The association between birthweight and use of cardiovascular medications: The role of health behaviors](https://pubmed.ncbi.nlm.nih.gov/37887873/). Journal of Cardiovascular Development and Disease
+
+Andersson F, Ramstedt M, **Thiesmeier** R, Magnusson C, Orsini N, Galanti MR. [Expected population prevalence following decriminalization of recreational use of cannabis in Sweden](https://link.springer.com/article/10.1186/s42238-026-00405-z). Journal of Cannbis Research
+
+
 ## Preprints (non-peer reviewed)
 
+**Thiesmeier** R, Madley-Dowd P, Ahlqvist VA, Orsini N. [Transportability of missing data models across study sites for research synthesis] (https://www.medrxiv.org/content/10.64898/2026.03.09.26347913v1). medRxiv
 
 
-Shaaban A, Andersson F, **Thiesmeier** R, Orsini N, Peña S, Caspersen I, Magnusson C, Hergens M, Qazi B, Galanti R. [The association between tobacco use and COVID-19 diagnoses in three Nordic countries: a pooled analysis](https://academic.oup.com/eurpub/article/35/1/101/7825813). European Journal of Public Health
+
+
 
