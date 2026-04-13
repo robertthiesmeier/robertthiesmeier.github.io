@@ -29,11 +29,16 @@ nav a:hover {
 }
 
 .wrapper {
-  max-width: 960px;
+  max-width: 1000px;
+}
+
+header {
+  width: 220px;
 }
 
 section {
-  width: 600px;
+  width: 680px;
+  margin-left: 260px;
 }
 
 section li em {
