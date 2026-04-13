@@ -10,41 +10,16 @@ Outside of academia I enjoy outdoor activities and especially running and cyclin
 ## Research
 My research interests lie at the intersection of applied biostatistics and clinical epidemiology. My methodological focus is on the development, evaluation, and application of statistical approaches for fragmented and non-harmonised data in multi-site studies. Recent methodological contributions have been applied to missing data problems in large cardiovascular trials, hospital and clinical care registries, and longitudinal cohort studies. More details and several slides of recent talks and presentations are available [here](talks.md).
 
-## Selected publications
-
-For a full list of publications, please see [here](publications.md).
-
-### Methodological research 
-
-**Thiesmeier** R, Haller PM, Patel SM, Bohula EM, Morrow DA, Murphy SA, O'Donoghue ML, Sabatine MS, Scirica BS, Bhatt DL, Orsini N, Bellavia A. [Statistical approaches for systematically missing covariates in individual participant data meta-analysis: insights and applications using 5 large cardiovascular trials](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf226/8280162). American Journal of Epidemiology  
-
-**Thiesmeier** R, Madley-Dowd P, Orsini N, Ahlqvist VA. [Cross-site imputation can recover missing variables in federated multicenter studies](https://www.sciencedirect.com/science/article/pii/S0895435625001532). Journal of Clinical Epidemiology
-
-**Thiesmeier** R, Hofer SM, Orsini N. [Multiple imputation for systematically missing effect modifiers in individual participant data meta-analysis](https://journals.sagepub.com/doi/10.1177/09622802251348800). Statistical Methods in Medical Research
-
-**Thiesmeier** R, Bottai M, Orsini N. [Imputing missing values with external data: Applications for multisite settings and federated analyses](https://journals.sagepub.com/doi/10.1177/1536867X251398605). The Stata Journal
-
-### Educational research
-
-**Thiesmeier** R, Orsini N. [Rolling the DICE (Design, Interpret, Compute, Estimate): Interactive Learning of Biostatistics With Simulations](https://mededu.jmir.org/2024/1/e52679/). JMIR Medical Education
-
-**Thiesmeier** R, Orsini N, Gracely E, Oster B. [Teaching Statistics in Health Sciences: The Potential of Simulations in Public Health](https://www.tandfonline.com/doi/full/10.1080/09332480.2024.2348972). Chance
-
-Orsini N, **Thiesmeier** R, Båge K. [A Simulation-Based Approach to Teach Interaction
-Eﬀects in Postgraduate Biostatistics Courses](https://www.tandfonline.com/doi/pdf/10.1080/26939169.2024.2394536). Journal of Statistics and Data Science Education
-
-### Medical and Population Health research
-
-**Thiesmeier** R, Abbadi A, Rizzuto D, Calderón-Larrañaga A, Hofer SM, Orsini N. [Multiple imputation of systematically missing data on gait speed in the Swedish National Study on Aging and Care](https://www.aging-us.com/article/205552/text). Aging (Albany NY)
-
-Shaaban A, Andersson F, **Thiesmeier** R, Orsini N, Peña S, Caspersen I, Magnusson C, Hergens M, Qazi B, Galanti R. [The association between tobacco use and COVID-19 diagnoses in three Nordic countries: a pooled analysis](https://academic.oup.com/eurpub/article/35/1/101/7825813). European Journal of Public Health
-
 ## Software
 I am a proficient Stata user and use Stata for research, programming, and teaching. We recently published a Stata software package: 
 
 [mi impute from](https://ideas.repec.org/c/boc/bocode/s459378.html), a package to impute binary, categorical, and continious variables from external data sources using logistic, multinomial logistic, and quantile regression, respectively.
 
 ## Teaching
+I enjoy teaching epidemiology and biostatistics and have been involved in multiple courses over the last years. I am particulary passionate about innovatising the way we teach methodological concepts in public health and medical sciences. Over the last few years, I have thus been leading together with Nicola Orsini an initiative to use simulations in biostatistics courses which resulted in three peer-reviewed educational articles. 
+
+I am currently involved in the following courses:
+
 - Karolinska Institutet - (Teaching Assistant & Lecturer): Biostatistics I (4FH083), Biostatistics II (4FH087), Biostatistics II: Logistic Regression for Epidemiologists (5314), Fundamentals of Stata (5315) (2022-)
 - Summer School on Modern Methods in Biostatistics and Epidemiology - Introduction to Stata (2025-)
 
