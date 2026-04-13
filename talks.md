@@ -3,7 +3,7 @@ layout: default
 title: Talks
 ---
 
-# List of Recent Talks, Slides, and Posters
+# List of Recent Talks
 
 ### 2025
 - **Systematically missing covariates in IPD meta-analysis: Comparing different statistical approaches using large cardiovascular trials**
