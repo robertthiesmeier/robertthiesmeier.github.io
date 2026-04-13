@@ -3,9 +3,9 @@ layout: default
 title: Robert Thiesmeier
 ---
 ## About me
-I am a PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team), Department of Global Public Health @[Karolinska Institutet](https://ki.se) and affiliated to research at the [Aging Research Center, Karolinska Institutet](https://ki.se/en/nvs/research/centres-and-networks-at-nvs/aging-research-center-arc). My academic background is in public health, epidemiology, and biostatistics. A short CV is available [here](presentations/CV_Thiesmeier__short_.pdf). 
+I am a PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team), Department of Global Public Health @[Karolinska Institutet](https://ki.se) and affiliated to research at the [Aging Research Center, Karolinska Institutet](https://ki.se/en/nvs/research/centres-and-networks-at-nvs/aging-research-center-arc). My academic background is in public health, epidemiology, and biostatistics. 
 
-Outside of academia I enjoy outdoor activities and especially running and cycling.
+Outside of academia I enjoy outdoor activities, especially running and cycling. 
 
 ## Research
 My research interests lie at the intersection of applied biostatistics and clinical epidemiology. My methodological focus is on the development, evaluation, and application of statistical approaches for fragmented and non-harmonised data in multi-site studies. Recent methodological contributions have been applied to missing data problems in large cardiovascular trials, hospital and clinical care registries, and longitudinal cohort studies. More details and several slides of recent talks and presentations are available [here](talks.md).
