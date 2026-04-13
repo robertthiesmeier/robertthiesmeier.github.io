@@ -3,6 +3,10 @@ layout: default
 title: Robert Thiesmeier
 ---
 
+<button onclick="toggleLang()" style="margin-bottom: 20px; padding: 6px 14px; cursor: pointer;">🇩🇪 Deutsch</button>
+
+<div id="en">
+
 ## About me
 I am a PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team), Department of Global Public Health @[Karolinska Institutet](https://ki.se) and affiliated to research at the [Aging Research Center, Karolinska Institutet](https://ki.se/en/nvs/research/centres-and-networks-at-nvs/aging-research-center-arc). My academic background is in public health, epidemiology, and biostatistics. A short CV is available [here](presentations/CV_Thiesmeier__short_.pdf). 
 
@@ -10,6 +14,35 @@ Outside of academia I enjoy outdoor activities with running being my current fav
 
 ## Research
 My research interests lie at the intersection of applied biostatistics and clinical epidemiology. My methodological focus is on the development, evaluation, and application of statistical approaches for fragmented and harmonised data in multi-site studies. Recent methodological contributions have been applied to missing data problems in large cardiovascular trials, hospital and clinical care registries, and longitudinal cohort studies. More details and several slides of recent talks and presentations are available [here](talks.md).
+
+</div>
+
+<div id="de" style="display:none;">
+
+## Über mich
+Ich bin Doktorand im Biostatistik-Team, Abteilung für Globale Public Health @Karolinska Institutet und bin der Forschung am Aging Research Center, Karolinska Institutet angegliedert. Mein akademischer Hintergrund liegt in den Bereichen Public Health, Epidemiologie und Biostatistik. Ein kurzer Lebenslauf ist hier verfügbar.
+Außerhalb der Wissenschaft genieße ich Outdoor-Aktivitäten, wobei Laufen derzeit mein liebstes ist.
+Research:
+Forschung
+Meine Forschungsinteressen liegen an der Schnittstelle von angewandter Biostatistik und klinischer Epidemiologie. Mein methodischer Schwerpunkt liegt auf der Entwicklung, Evaluierung und Anwendung statistischer Ansätze für fragmentierte und harmonisierte Daten in multizentrischen Studien. Jüngste methodische Beiträge wurden auf Probleme fehlender Daten in großen kardiovaskulären Studien, Krankenhaus- und klinischen Versorgungsregistern sowie longitudinalen Kohortenstudien angewendet. Weitere Details und mehrere Folien von aktuellen Vorträgen und Präsentationen sind hier verfügbar.
+</div>
+
+<script>
+function toggleLang() {
+  var en = document.getElementById('en');
+  var de = document.getElementById('de');
+  var btn = document.querySelector('button');
+  if (de.style.display === 'none') {
+    de.style.display = 'block';
+    en.style.display = 'none';
+    btn.textContent = '🇬🇧 English';
+  } else {
+    de.style.display = 'block';
+    en.style.display = 'none';
+    btn.textContent = '🇩🇪 Deutsch';
+  }
+}
+</script>
 
 ## Selected publications
 
@@ -32,7 +65,7 @@ For a full list of bibliography, see [here](https://scholar.google.com/citations
 **Thiesmeier** R, Orsini N, Gracely E, Oster B. [Teaching Statistics in Health Sciences: The Potential of Simulations in Public Health](https://www.tandfonline.com/doi/full/10.1080/09332480.2024.2348972). Chance
 
 Orsini N, **Thiesmeier** R, Båge K. [A Simulation-Based Approach to Teach Interaction
-Eﬀects in Postgraduate Biostatistics Courses](https://www.tandfonline.com/doi/pdf/10.1080/26939169.2024.2394536). Journal of Statistics and Data Science Education.
+Eﬀects in Postgraduate Biostatistics Courses](https://www.tandfonline.com/doi/pdf/10.1080/26939169.2024.2394536). Journal of Statistics and Data Science Education
 
 ### Medical and Population Health research
 
