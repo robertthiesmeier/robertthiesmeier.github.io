@@ -3,8 +3,7 @@ layout: default
 title: Conference presentations and Talks
 ---
 
-## Selected presentations
-
+# Conference presentations and Talks
 These are some of my recent presentations at international conferences with the slides being available as a pdf.
 
 ### 2025
