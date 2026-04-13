@@ -2,7 +2,7 @@
 layout: default
 title: Robert Thiesmeier
 ---
-## About me
+## About
 I am a PhD student at the [Biostatistics Team](https://ki.se/en/gph/research/biostatistics-team), Department of Global Public Health @[Karolinska Institutet](https://ki.se) and affiliated to research at the [Aging Research Center, Karolinska Institutet](https://ki.se/en/nvs/research/centres-and-networks-at-nvs/aging-research-center-arc). My academic background is in public health, epidemiology, and biostatistics. 
 
 Outside of academia I enjoy outdoor activities, especially running and cycling. 
