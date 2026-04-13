@@ -36,7 +36,7 @@ Andersson F, Ramstedt M, **Thiesmeier** R, Magnusson C, Orsini N, Galanti MR. [E
 
 ## Preprints (non-peer reviewed)
 
-**Thiesmeier** R, Madley-Dowd P, Ahlqvist VA, Orsini N. [Transportability of missing data models across study sites for research synthesis] (https://www.medrxiv.org/content/10.64898/2026.03.09.26347913v1). medRxiv
+**Thiesmeier** R, Madley-Dowd P, Ahlqvist VA, Orsini N. [Transportability of missing data models across study sites for research synthesis](https://www.medrxiv.org/content/10.64898/2026.03.09.26347913v1). medRxiv
 
 
 
