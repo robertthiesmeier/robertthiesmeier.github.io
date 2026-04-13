@@ -2,6 +2,7 @@
 layout: default
 title: Bibliography
 ---
+# Bibliography 
 
 ## Methodological research 
 
