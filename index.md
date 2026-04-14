@@ -11,9 +11,9 @@ Outside of academia I enjoy outdoor activities, especially running and cycling.
 My research interests lie at the intersection of applied biostatistics and clinical epidemiology. My methodological focus is on the development, evaluation, and application of statistical approaches for fragmented and non-harmonised data in multi-site studies. Recent methodological contributions have been applied to missing data problems in large cardiovascular trials, hospital and clinical care registries, and longitudinal cohort studies. More details and several slides of recent talks and presentations are available [here](talks.md).
 
 ## Teaching
-I enjoy teaching epidemiology and biostatistics and have been involved in multiple courses over the last years. I am particulary passionate about innovatising the way we teach methodological concepts in public health and medical sciences. Over the last few years, I have been involved in leading an initiative to use simulations in biostatistics courses which resulted in three peer-reviewed educational articles. 
+I enjoy teaching epidemiology and biostatistics and have been involved in multiple courses over the last years. I am particulary passionate about innovating the way we teach methodological concepts in public health and medical sciences. Over the last few years, I have been involved in leading an initiative to use simulations in biostatistics courses which resulted in three peer-reviewed educational articles. 
 
-I am currently involved in the following courses:
+I am and was involved in the following courses:
 
 - Karolinska Institutet - (Teaching Assistant & Lecturer): Biostatistics I (4FH083), Biostatistics II (4FH087), Biostatistics II: Logistic Regression for Epidemiologists (5314), Fundamentals of Stata (5315) (2022-)
 - Summer School on Modern Methods in Biostatistics and Epidemiology - Introduction to Stata (2025-)
