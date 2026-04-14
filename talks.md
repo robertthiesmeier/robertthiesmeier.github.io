@@ -16,7 +16,7 @@ title: Talks
 - _Cross-Site Imputation for Recovering Variables without Individual Pooled Data_  
   International Society of Pharmacoepidemiology, Washington DC, August 2025 [Slides](presentations/019_ISPE_washington_2025.pdf)
 
-- _Navigating missing data: Workshop on strategies for robust data analysis_
+- _Navigating missing data: Workshop on strategies for robust data analysis_  
   Management and Development for Health, Dar es Salaam, Tanzania (Online), May 2025
 
 - _Missing values in distributed data networks_  
