@@ -16,6 +16,9 @@ I am involved in the following courses:
 - Karolinska Institutet - (Teaching Assistant & Lecturer): Biostatistics I (4FH083), Biostatistics II (4FH087), Biostatistics II: Logistic Regression for Epidemiologists (5314), Fundamentals of Stata (5315) (2022-)
 - Summer School on Modern Methods in Biostatistics and Epidemiology - Introduction to Stata (2025-)
 
+> \[!NOTE]
+> I am currently based in Stockholm, Sweden.
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <div style="margin-top: 40px; padding: 15px 0; border-top: 2px solid #e0e0e0;">
