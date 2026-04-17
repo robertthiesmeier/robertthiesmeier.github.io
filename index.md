@@ -10,7 +10,7 @@ My research interests lie at the intersection of applied biostatistics and clini
 Alongside methodological work, I have a strong interest in statistical education and the use of simulations as a teaching tool in biostatistics and epidemiology. Slides from recent talks and presentations are available on [here](talks.md).
 
 ## Teaching
-I enjoy teaching epidemiology and biostatistics and have been involved in multiple courses over the last years. I am particularly passionate about innovating the way we teach methodological concepts in public health and medical sciences. Over the last few years, I have led an initiative to incorporate simulations into biostatistics courses - an approach that makes abstract statistical concepts more tangible and accessible to students. This work has resulted in three peer-reviewed educational articles.  
+I enjoy teaching epidemiology and biostatistics and have been involved in multiple courses over the last years. I particularly enjoy innovating the way we teach methodological concepts in public health and medical sciences. Over the last few years, I have thus led an initiative to incorporate simulations into biostatistics courses - an approach that makes abstract statistical concepts more tangible and accessible to students. This work has resulted in three peer-reviewed educational articles.  
 I am involved in the following courses:
 
 - Karolinska Institutet - (Teaching Assistant & Lecturer): Biostatistics I (4FH083), Biostatistics II (4FH087), Biostatistics II: Logistic Regression for Epidemiologists (5314), Fundamentals of Stata (5315) (2022-)
