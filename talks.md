@@ -5,6 +5,11 @@ title: Talks
 
 # List of Recent Talks
 
+### 2026
+
+- _Simulations: an invaluable tool for health scientists_
+  Department of Global Public Health Seminar, Karolinska Institutet, May 2026
+
 ### 2025
 
 - _The Essentials of Statistical Analysis and Reporting_  
