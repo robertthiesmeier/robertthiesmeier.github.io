@@ -7,7 +7,7 @@ title: Talks
 
 ### 2026
 
-- Transportability of missing data models in federated analysis
+- _Transportability of missing data models in federated analysis_
   Missing Data, Imputation & Analysis (MiDIA) Group Meeting (online), May 2026
 
 - _Simulations: an invaluable tool for health scientists_
